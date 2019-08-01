@@ -12,7 +12,7 @@
 				 DEFINE ('DB_USER', 'tvmedia');
 				 DEFINE ('DB_PASSWORD', 'tvmedia@@@2018');
 				 DEFINE ('DB_HOST', 'localhost'); 
-				 DEFINE ('DB_NAME', 'builds');
+				 DEFINE ('DB_NAME', 'ontv');
 		}
 		else
 		{
@@ -21,7 +21,7 @@
 			DEFINE ('DB_USER', 'tvmedia');
 			DEFINE ('DB_PASSWORD', 'tvmedia@@@2018');
 			DEFINE ('DB_HOST', 'localhost'); // server dependent host name
-			DEFINE ('DB_NAME', 'builds');
+			DEFINE ('DB_NAME', 'ontv');
 		}
 
 	
