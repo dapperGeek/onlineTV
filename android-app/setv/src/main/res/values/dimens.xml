@@ -1,0 +1,52 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="borderRadius">5dp</dimen>
+    <dimen name="item_offset">2dp</dimen>
+
+     <!--Layout margins and paddings -->
+    <dimen name="d_five">5dp</dimen>
+    <dimen name="d_ten">10dp</dimen>
+    <dimen name="d_fifteen">15dp</dimen>
+    <dimen name="d_twenty">20dp</dimen>
+    <dimen name="d_twentyfive">25dp</dimen>
+    <dimen name="d_thirty">30dp</dimen>
+    <dimen name="d_thirtyfive">35dp</dimen>
+    <dimen name="d_forty">40dp</dimen>
+    <dimen name="d_fifty">50dp</dimen>
+    <dimen name="d_sixty">60dp</dimen>
+    <dimen name="d_seventy">70dp</dimen>
+    <dimen name="d_eighty">80dp</dimen>
+    <dimen name="d_ninety">90dp</dimen>
+    <dimen name="d_hundred">100dp</dimen>
+    <dimen name="d_oneten">110dp</dimen>
+    <dimen name="d_onetwenty">120dp</dimen>
+    <dimen name="d_onethirty">130dp</dimen>
+    <dimen name="d_oneforty">140dp</dimen>
+    <dimen name="d_onefifty">150dp</dimen>
+    <dimen name="d_onesixty">160dp</dimen>
+    <dimen name="d_oneseventy">170dp</dimen>
+    <dimen name="d_oneeighty">180dp</dimen>
+    <dimen name="d_oneninety">190dp</dimen>
+    <dimen name="d_twohundred">200dp</dimen>
+    <dimen name="d_twofifty">250dp</dimen>
+    <dimen name="d_threehundred">300dp</dimen>
+    <dimen name="d_threefifty">350dp</dimen>
+    <dimen name="d_fourhundred">400dp</dimen>
+    <dimen name="d_fourfifty">450dp</dimen>
+    <dimen name="d_fivehundred">500dp</dimen>
+
+    <!--Text sizes-->
+    <dimen name="t_fifteen">15sp</dimen>
+    <dimen name="t_twenty">20sp</dimen>
+    <dimen name="t_twentyfive">25sp</dimen>
+    <dimen name="t_thirty">30sp</dimen>
+    <dimen name="t_thirtyfive">35sp</dimen>
+    <dimen name="t_forty">40sp</dimen>
+    <dimen name="t_fortyfive">45sp</dimen>
+    <dimen name="t_fifty">50sp</dimen>
+
+    <!-- Button dimensions -->
+    <dimen name="button_radius">4dp</dimen>
+</resources>

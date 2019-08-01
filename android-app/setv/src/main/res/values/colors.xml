@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0094dc</color>
+    <color name="colorPrimaryDark">#056c9e</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="colorAccent">#a2d4ec</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="navigation_default">#fcfbfb</color>
+    <color name="navigation_checked">#ddf7dc</color>
+
+    <color name="circle_select">#ff9b23</color>
+    <color name="circle_normal">#cdcdcd</color>
+    <color name="yellow_line">#ff9b23</color>
+    <color name="view_all_color">#eb7e19</color>
+    <color name="home_category">#a5a5a5</color>
+    <color name="about_desc">#adadad</color>
+    <color name="about_title">#ffffff</color>
+    <color name="navigation_text">#4a637b</color>
+    <color name="divider">#282828</color>
+    <color name="transparent">#00000000</color>
+    <color name="fill_circle">#49637a</color>
+    <color name="circle">#898989</color>
+    <color name="intro">#5d7287</color>
+    <color name="red">#f9d61b07</color>
+</resources>

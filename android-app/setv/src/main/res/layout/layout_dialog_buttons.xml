@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <!-- Dialog Buttons -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/dismiss_btn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1"
+            android:text="@string/cancel_text"
+            android:textColor="@color/red"
+            android:layout_marginEnd="@dimen/d_twenty"
+            android:background="@drawable/border_white"
+            android:textAllCaps="true"
+            android:layout_marginTop="@dimen/d_ten"
+            android:layout_marginRight="@dimen/d_twenty"/>
+
+        <Button
+            android:id="@+id/submit_btn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1"
+            android:text="@string/save_text"
+            android:textColor="@color/colorPrimary"
+            android:textAllCaps="true"
+            android:background="@drawable/border_white"
+            android:layout_marginTop="@dimen/d_ten"
+            android:paddingStart="@dimen/d_twenty"
+            android:paddingEnd="@dimen/d_twenty"/>
+
+    </LinearLayout>
+
+</RelativeLayout>
